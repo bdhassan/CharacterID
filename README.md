@@ -1,8 +1,8 @@
 # CharacterID
 
-1) Get a character from the user using character input. After you read the character in, print the character out and print a linebreak so the output is not jumbled together. Also see #9.
+1) Get a character from the user using character input. After you read the character in, print the character out and print a linebreak 
 
-2) Determine if the character is a capital letter,  lower case letter,  number, or  other character.
+2) Determine if the character is a capital letter,  lowercase letter,  number, or  other character.
 
 3) Print the string Capital, Lower, Number, or Other to the screen according to the type of character on the next line.
 
